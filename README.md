@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @jshum101
+- 👀 I’m interested in ... blockchain, NFTs, crypto, finance, etc...
+- 🌱 I’m currently learning ... business administration @SIU-C, attempting to self-teach coding/programming to broaden my skillset...
+- 💞️ I’m looking to collaborate on ... anything I can actually understand...
+
+<!---
+jshum101/jshum101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
